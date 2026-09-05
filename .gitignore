@@ -1,0 +1,7 @@
+wp/
+captures/
+paquet/
+database.sql
+*.wpress
+admin-password.txt
+*.log
